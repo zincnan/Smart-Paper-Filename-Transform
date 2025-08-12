@@ -1,10 +1,10 @@
 # Smart Paper Filename Transform
 
 一个极简的快速生成论文文件名的划词工具（Chrome 扩展），选中英文论文题目后，通过右键菜单将其转换为适合作为文件名的安全字符串，并自动复制到剪贴板。  
-特别适合为论文、文档、资料生成整洁的文件名。
+适合为论文、文档、资料生成整洁的文件名，以摆脱在下载论文时，文件名为一长串数字或无意义字母的困境。
 
 A minimal tool for quickly generating paper file names by text selection. Select an English paper title, right-click to convert it into a file-system–safe string, and automatically copy it to the clipboard.  
-Perfect for generating clean filenames for papers, documents, and research materials.
+Ideal for creating clean filenames for papers, documents, and research materials, helping you avoid the hassle of downloading papers with filenames that are long strings of numbers or meaningless letters
 
 ---
 
