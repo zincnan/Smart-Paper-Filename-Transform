@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Smart Filename Transform",
+  "version": "1.0.3",
+  "description": "Transform selected text into a safe filename and copy to clipboard.",
+  "permissions": ["contextMenus", "scripting", "activeTab", "clipboardWrite", "tabs"],
+  "host_permissions": ["<all_urls>"],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
