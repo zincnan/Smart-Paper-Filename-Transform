@@ -45,5 +45,6 @@ Ideal for creating clean filenames for papers, documents, and research materials
 
 ---
 ## 不足 / insufficient
-- 缺乏对file本地文件的支持。此时，需要复制论文文件的标题到浏览器其他页面，在使用本插件
+- 缺乏对file本地文件的支持。此时，需要复制论文文件的标题到浏览器其他页面，然后使用本插件
+- 
   There is a lack of support for local file files. At this time, you need to copy the title of the thesis file to another browser page before using this plugin.
